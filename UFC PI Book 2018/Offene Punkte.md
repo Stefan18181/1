@@ -11,6 +11,16 @@ tags:
 Was ohne das Original-PDF fehlt. Diese Liste ist die Arbeitsgrundlage für den
 Moment, in dem die Datei vorliegt.
 
+> [!todo] Vereinbarter Stand (25.07.2026)
+> Der aktuelle Inhalt ist ausdrücklich ein **Zwischenstand**. Die genaue
+> Ausarbeitung ist auf später vertagt und braucht als Voraussetzung das
+> Original-PDF — ohne die Datei ändert sich an den Lücken unten nichts, egal
+> wie oft nachrecherchiert wird.
+>
+> Voraussetzung erfüllen durch **eine** der beiden Optionen:
+> 1. `UFCPI_Book_2018.pdf` beschaffen und ins Repo-Root legen
+> 2. `media.ufc.tv` auf die Egress-Allowlist der Umgebung setzen
+
 ## Ganz fehlende Kapitel
 
 - [ ] [[03 Optimierung des Trainingsprozesses]] — komplett offen
